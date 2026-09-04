@@ -26,3 +26,12 @@ Most of those tools read [AGENTS.md](<jen-abel-enterprise-sales-kb/AGENTS.md>) a
 | [01 Source Notes](<jen-abel-enterprise-sales-kb/01 Source Notes>) | Where the advice came from (public X posts and talks) |
 
 The core idea: enterprise sales is not a better pitch. Learn faster than the market, get insider context, help the buyer write the internal story, and project-manage the buying process.
+
+## References
+
+Public sources this knowledge base is drawn from:
+
+- X: [Jen Abel (@jjen_abel)](https://x.com/jjen_abel)
+- [The ultimate guide to founder-led sales | Jen Abel](https://www.youtube.com/watch?v=969dwgu98qc) — Lenny's Podcast
+- [$1M to $10M: The enterprise sales playbook with Jen Abel](https://www.youtube.com/watch?v=37fKFWdrMyA) — Lenny's Podcast
+- [84 minutes of enterprise sales alpha | Jen Abel](https://www.youtube.com/watch?v=YS9In813jJ0) — Lenny's Podcast
