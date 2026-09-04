@@ -10,6 +10,12 @@ These are Markdown files. There is nothing to install or run.
 - [Sales map](<jen-abel-enterprise-sales-kb/05 Maps/Jen Abel Enterprise Sales Map.md>) — the ideas in order
 - [Full enterprise sales cycle](<jen-abel-enterprise-sales-kb/03 Playbooks/Full Enterprise Sales Cycle.md>) — the 15-step playbook
 
+## How to use it
+
+Clone or open this repo in your agent (Cursor, Claude Code, Codex, Grok, or similar). Point the agent at the notes and ask about a live deal: the next step, a stall, an objection, how to run a call.
+
+Most of those tools read [AGENTS.md](<jen-abel-enterprise-sales-kb/AGENTS.md>) automatically. If yours does not, tell it to treat that file as project instructions and to use the playbooks as the source of advice.
+
 ## What's inside
 
 | Folder | Use it for |
