@@ -1,5 +1,12 @@
 # Enterprise Sales Knowledge Base
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=969dwgu98qc"><img src="assets/yt-founder-led-sales.jpg" alt="The ultimate guide to founder-led sales | Jen Abel" width="24%" /></a>
+  <a href="https://www.youtube.com/watch?v=37fKFWdrMyA"><img src="assets/yt-1m-to-10m.jpg" alt="$1M to $10M: The enterprise sales playbook with Jen Abel" width="24%" /></a>
+  <a href="https://www.youtube.com/watch?v=YS9In813jJ0"><img src="assets/yt-enterprise-sales-alpha.jpg" alt="84 minutes of enterprise sales alpha | Jen Abel" width="24%" /></a>
+  <a href="https://x.com/jjen_abel"><img src="assets/jen-abel-x.jpg" alt="Jen Abel on X (@jjen_abel)" width="24%" /></a>
+</p>
+
 Practical notes on Jen Abel's enterprise sales approach. Use them in a live deal: how to run the next step, how to qualify, how to handle a stall or objection.
 
 These are Markdown files. There is nothing to install or run.
